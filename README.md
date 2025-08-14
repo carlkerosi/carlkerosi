@@ -46,7 +46,7 @@ A brief description of the project, highlighting technologies used and key featu
 
 🔗 https://github.com/carlkerosi/Final-prototype.git
 
-🌐 https://beauty-express-8yuhrx41w-santos-projects-dc6e8699.vercel.app
+🌐 https://builder-pixel-nest-chi.vercel.app/
 
 🔹 [Szn by suzie]
 A brief description of the project, highlighting technologies used and key features.
