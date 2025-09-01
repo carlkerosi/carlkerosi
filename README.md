@@ -46,7 +46,7 @@ A brief description of the project, highlighting technologies used and key featu
 
 🔗 https://github.com/carlkerosi/Final-prototype.git
 
-🌐 https://builder-pixel-nest-chi.vercel.app/
+🌐 https://beauty-express-8yuhrx41w-santos-projects-dc6e8699.vercel.app
 
 🔹 [Szn by suzie]
 A brief description of the project, highlighting technologies used and key features.
@@ -60,6 +60,6 @@ I'm always open to collaborating on interesting projects, discussing new technol
 
 📧 Email: henrycarl576@gmail.com  
 
-💼 LinkedIn: Your LinkedIn Profile (replace with your actual URL if different from the email-based example)
+💼 LinkedIn: henrycar@gmail.com
 
 Thanks for visiting my GitHub profile! 🚀
